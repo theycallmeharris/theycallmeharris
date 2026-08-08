@@ -1,13 +1,10 @@
+```markdown
 [![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://www.linkedin.com/in/haris-baig-845633257/)
 
 <h1 align="center">Hi 👋, I'm Haris Baig</h1>
 <h3 align="center">Computer Science Student & Network Infrastructure Enthusiast</h3>
 
 <img align="right" alt="Networking & Code" width="400" src="http://cdn.dribble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=theycallmeharris&label=Profile%20views&color=0e75b6&style=flat" alt="theycallmeharris" />
-</p>
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=theycallmeharris" alt="theycallmeharris" /></a>
@@ -36,7 +33,7 @@
 | **DevOps & Automation** | Docker, n8n, Git, GitHub Actions |
 | **Full-Stack Development** | JavaScript, TypeScript, React, Next.js, Node.js, Express.js, Tailwind CSS, MongoDB, Firebase |
 
-<h3 align="leftLanguages and Tools (Icons):</h3>
+<h3 align="left">Languages and Tools (Icons):</h3>
 <p align="left">
   <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
@@ -62,3 +59,5 @@
   <a href="https://instagram.com/theycallmeharris/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
   <a href="https://discord.gg/Harris#7192" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" /></a>
 </p>
+
+```
