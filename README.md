@@ -5,10 +5,6 @@
 
 <img align="right" alt="Networking & Code" width="400" src="http://cdn.dribble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=theycallmeharris" alt="theycallmeharris" /></a>
-</p>
-
 - 🔭 I’m currently working on **Enterprise Network Simulation & Routing Protocols**
 - ⚡ I’m exploring **Linux System Administration, Docker, and Workflow Automation**
 - 🎓 BSCS Student at GCUF | Completed **Cisco Networking Basics**
@@ -58,5 +54,3 @@
   <a href="https://instagram.com/theycallmeharris/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
   <a href="https://discord.gg/Harris#7192" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" /></a>
 </p>
-
-```
