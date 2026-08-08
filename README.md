@@ -44,8 +44,6 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=theycallmeharris&show_icons=true&locale=en" alt="theycallmeharris" /></p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://twitter.com/harrisbaig_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harrisbaig_" height="30" width="40" /></a>
